@@ -24,5 +24,5 @@ build example:<br>
 <br>
 alias waf="$PWD/modules/waf/waf-light"<br>
 waf configure --board=F4BY<br>
-waf <br>
+waf copter<br>
 <br>
