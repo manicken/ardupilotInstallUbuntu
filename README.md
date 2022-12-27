@@ -9,6 +9,7 @@ sudo apt install python3<br>
 sudo ln -s /usr/bin/python3 /usr/bin/python<br>
 sudo apt install python-dev-is-python3<br>
 python -m pip install empy<br>
+python -m pip install pexpect<br>
 sudo apt-get install gcc-arm-none-eabi<br>
 sudo apt-get install g++-arm-linux-gnueabihf<br>
 sudo apt install make -y<br>
